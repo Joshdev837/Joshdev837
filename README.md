@@ -8,7 +8,7 @@
     <td>Python</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"></td>
     <td></td>
   </tr>
 </table>
