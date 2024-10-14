@@ -25,6 +25,7 @@
   </tr>
   <tr>
     <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/office-access-logo-F24B3B1BB1-seeklogo.com.png" width="60"></td>
+    <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/MySQL-logo-F6FF285A58-seeklogo.com.png?raw=true" width="60"></td>
   </tr>
   </table>
 ##
