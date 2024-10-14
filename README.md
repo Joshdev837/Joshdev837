@@ -1,6 +1,6 @@
 ## Hi there 👋
-I know <br>
--Languages
+<h2> I know </h2><br>
+- <h3> Languages </h3>
 
 
 
