@@ -8,8 +8,8 @@
     <td>Python</td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"></td>
+    <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/delphi-logo-E73609161E-seeklogo.com.png" width="60"</td>
+    <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/python-logo-only.png" width="60"></td>
   </tr>
 </table>
 
