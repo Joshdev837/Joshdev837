@@ -4,16 +4,12 @@
   - <h3>Languages </h3>
   <table>
   <tr>
-    <td>Cell 1</td>
-    <td>Cell 2</td>
-    <td>Cell 3</td>
-    <td>Cell 4</td>
+    <td>Delphi</td>
+    <td>Python</td>
   </tr>
   <tr>
-    <td>Cell 5</td>
-    <td>Cell 6</td>
-    <td>Cell 7</td>
-    <td>Cell 8</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
