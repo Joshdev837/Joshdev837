@@ -34,6 +34,7 @@
     <tr>
       <td>Delphi</td>
       <td>PyCharm</td>
+      <td>Dev C++</td>
       <td>Unity</td>
       <td>VS Code</td>
       <td>Visual Studio</td>
@@ -41,6 +42,7 @@
     <tr>
       <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/delphi-logo-E73609161E-seeklogo.com.png" width="60"></td>
       <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/pycharm-logo-51B1427388-seeklogo.com.png" width="60"></td>
+      <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/Embarcadero-newdevcpp-logo.png"width="60"></td>
       <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/unity-logo-988A22E703-seeklogo.com.png" width="60"></td>
       <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="60"></td>
       <td><img src="https://github.com/Joshdev837/Icons/blob/main/icons/Languages/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" width="60"></td>
